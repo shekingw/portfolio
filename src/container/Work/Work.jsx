@@ -11,14 +11,14 @@ const Work = () => {
 	const projects = [
 		{
 			title: 'Doggs App',
-			url: 'https://app-pokedex-pi.vercel.app/',
+			url: 'https://doggs-app.vercel.app/',
 			imgUrl: images.doggs,
 			description:
 				'Trabaje como Full Stack Web Developer con las siguientes tecnologias: Node.js, Express, Sequelize, PostgreSQL, HTML, CSS, Javascript, React, Redux, entre otras..',
 		},
 		{
 			title: 'yoVoy!',
-			url: 'http://',
+			url: 'https://yovoy-frontend.herokuapp.com/',
 			imgUrl: images.yovoy,
 			description:
 				'Trabaje como Front-end Web Developer con las siguientes tecnologias: HTML, CSS, Typescript, React, Redux, Json Web Token, Material UI, entre otras..',
