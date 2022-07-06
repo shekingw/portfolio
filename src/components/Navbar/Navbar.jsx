@@ -41,6 +41,13 @@ const Navbar = () => {
 					</motion.div>
 				)}
 			</div>
+			<div>
+				<button className="app__navbar__button">
+					<a href="../Alan Otero - CV.pdf" download>
+						Descargar CV
+					</a>
+				</button>
+			</div>
 		</nav>
 	);
 };

@@ -33,7 +33,7 @@ const Work = () => {
 			<motion.div ref={carousel} className="slider-container">
 				<motion.div
 					drag="x"
-					dragConstraints={{ left: -350, right: 0 }}
+					dragConstraints={{ left: -250, right: 0 }}
 					className="slider"
 				>
 					{projects.map((project, index) => (
