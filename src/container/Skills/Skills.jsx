@@ -35,13 +35,13 @@ const Skills = () => {
 		// 	year: 2022,
 		// },
 		{
-			name: 'Proyecto Back-End & Front-End Developer',
+			name: 'Back-End & Front-End Developer',
 			company: 'Henry',
 			desc: 'Proyecto Individual con mas de +300 horas',
 			year: '2022',
 		},
 		{
-			name: 'Proyecto Front-End Developer',
+			name: 'Front-End Developer',
 			company: 'Henry',
 			desc: 'Proyecto Grupal con mas de +400 horas',
 			year: '2022',
