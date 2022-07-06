@@ -1,4 +1,4 @@
-### Portfolio Personal Mariano Dunand
+### Portfolio Personal Alan Otero
 
 - Se crea App con npx create-react-app
 - Se da estilo con motion framer, y sass.
