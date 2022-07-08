@@ -51,11 +51,11 @@ const Work = () => {
 									alt={project.title}
 								/>
 								<div className="Card_bg_li">
-									<a href={project.url}>
+									<a href={project.url} target="_blank">
 										<ImGithub size={20} />
 										<p>Repositorio</p>
 									</a>
-									<a href={project.url}>
+									<a href={project.url} target="_blank">
 										<SiVercel size={20} />
 										<p>Deploy</p>
 									</a>
